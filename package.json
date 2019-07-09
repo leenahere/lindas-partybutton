@@ -4,9 +4,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "node-sass": "^4.12.0",
     "react": "^16.8.6",
+    "react-awesome-button": "^6.1.2",
+    "react-bootstrap": "^1.0.0-beta.9",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-dom-confetti": "^0.1.1",
+    "react-scripts": "3.0.1",
+    "react-switch": "^5.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
